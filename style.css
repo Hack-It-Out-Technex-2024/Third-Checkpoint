@@ -18,7 +18,7 @@ body{
    
 }
 #ff{
-    height: 150px;
+    height: 100dvh;
     background-position: 50% 50%;
     background-image: url("https://gemini.no/wp-content/uploads/2020/03/istock-1126668893-1536x1024.jpg");
  background-size: cover;
