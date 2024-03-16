@@ -6,6 +6,8 @@ Idea: [Comprehensive University Management System](https://github.com/Hack-It-Ou
 
 Project Link: https://github.com/criticic/cums-technex
 
-Link to your presentation: WIP https://www.canva.com/design/DAF_qkbNhZU/u5fl6JDqJQrXBW-JXGZ8Mw/view?utm_content=DAF_qkbNhZU&utm_campaign=designshare&utm_medium=link&utm_source=editor
+Link to your presentation: https://www.canva.com/design/DAF_qkbNhZU/u5fl6JDqJQrXBW-JXGZ8Mw/view?utm_content=DAF_qkbNhZU&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Video Link: WIP
+
+API Documentation Link: https://github.com/criticic/cums-technex/blob/main/API_DOCUMENTATION.md
