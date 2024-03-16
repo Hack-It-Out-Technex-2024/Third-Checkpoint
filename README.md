@@ -10,4 +10,5 @@ Following data must be present in your Pull request for this checkpoint
 - Github link to your Project : https://github.com/yashashwi-s/NetZero
 - Your Team name: hell fire hackers
 - Your problem statement which you're working on along with the link: 2. Environmental Sustainability, 4. Carbon footprint reduction \ https://drive.google.com/file/d/1_RgwVd60phpkDYC1RVLfiarmLxrGUM3r/view?usp=drive_link
+- Video Link: https://drive.google.com/drive/folders/1lGZRvd2WX-TJ8tStm7CJGac6Xm0_F5vR?usp=sharing
   
