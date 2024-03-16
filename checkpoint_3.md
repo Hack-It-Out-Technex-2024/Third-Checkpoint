@@ -16,3 +16,7 @@ https://bsafe-six.vercel.app/
 # final ppt
 
 https://drive.google.com/drive/folders/17hKCU52XVQTri9XOfrrfH3lJNRD8YN10?usp=sharing
+
+# video link
+
+https://drive.google.com/file/d/1Io_oij2OdGRZo_ePOKFOOqk3G2E8a5lg/view?usp=sharing
