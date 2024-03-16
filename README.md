@@ -1,12 +1,15 @@
 # Third-Checkpoint
 
-This is third checkpoint for `Hack It Out` hackathon organised under Technex'24.
-
-*Please make sure to make a good `README.md` for easier and better evaluation.
-
-Following data must be present in your Pull request for this checkpoint
 - Link to your presentation
 - Deployed link for your ongoing project
-- Github link to your Project
-- Your Team name
-- Your problem statement which you're working on along with the link
+
+## Github link to our Project -
+[click Here](https://github.com/ditinagrawal/Technex-Hackathon)
+
+## Lazy Developers Members -
+1. Deepti Agarwal
+2. Ditin Agrawal
+3. Srishti Agarwal
+
+## Problem Statement -
+ Develop solutions that optimize waste management processes, reduce plastic usage, and promote recycling. This could include technologies for waste tracking, smart recycling bins, or initiatives to minimize single-use plastic.
