@@ -5,6 +5,7 @@ This is the third checkpoint for `Hack It Out` hackathon organized under Technex
 ## Team Name: ByteMe
 ### Problem Statement: Financial Inclusion ( <a href="https://docs.google.com/document/d/1joNoltnkjIBKidUz1NsM6ohIdoK25E4uuWonSPasjK4/edit?usp=sharing">Link</a> )
 
+- <a href="https://drive.google.com/file/d/1cE0dJJ8v8oGWnr0ho_WKgafp16Z4fuJB/view?usp=sharing" > Video Link </a>
 - <a href="https://www.canva.com/design/DAF_qc8UccI/gsZlfE0dNNoRwt-mKofK6A/edit?utm_content=DAF_qc8UccI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Presentation Link</a>
 
 - <a href="https://samriddhiapp.vercel.app/">Deployed Link </a>
