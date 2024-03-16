@@ -1,12 +1,13 @@
-# Third-Checkpoint
+# First Checkpoint
 
-This is third checkpoint for `Hack It Out` hackathon organised under Technex'24.
+[![Deployed](https://img.shields.io/badge/Deployed%20Link-https://brang-w277.onrender.com/main-brightgreen)](https://brang-w277.onrender.com/main)
+[![GitHub](https://img.shields.io/badge/GitHub-https://github.com/vivekmaurya001/First-Checkpoint--blue)](https://github.com/vivekmaurya001/First-Checkpoint-)
 
-*Please make sure to make a good `README.md` for easier and better evaluation.
+## Presentation
+Link to your presentation: [Presentation Link]([https://yourpresentationlink.com](https://www.canva.com/design/DAF_sWrstPc/brFQRtis_3eUD-yz-7MHcg/edit?utm_content=DAF_sWrstPc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAF_sWrstPc/brFQRtis_3eUD-yz-7MHcg/edit?utm_content=DAF_sWrstPc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Following data must be present in your Pull request for this checkpoint
-- Link to your presentation
-- Deployed link for your ongoing project
-- Github link to your Project
-- Your Team name
-- Your problem statement which you're working on along with the link
+## Team Name
+Pixel_Pioneers
+
+## Problem Statement
+### Environmental Sustainability - Waste Management
