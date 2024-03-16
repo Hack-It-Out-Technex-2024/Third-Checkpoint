@@ -1,6 +1,6 @@
 # Third-Checkpoint
 
-This is third checkpoint for `Hack It Out` hackathon organised under Technex'24.
+This is the third checkpoint for `Hack It Out` hackathon organized under Technex'24.
 
 ## Team Name: ByteMe
 ### Problem Statement: Financial Inclusion
@@ -19,9 +19,11 @@ Features So far,
 6. SMS UPI Payment ( API )
 7. Get Government Schemes ( API )
 8. Interest Calculator
-9. Automatic Fund Selector for Loans
-10. AI Assistant for Financial Consultation ( API )
-11. Risk Assessment for Loan Amount ( API )
-12. Mostly Responsive Design ( Both PC and Mobile View )
+9. Proportional Interest
+10. Automatic Fund Selector for Loans
+11. AI Assistant for Financial Consultation ( API )
+12. Risk Assessment for Loan Amount ( API )
+13. Mostly Responsive Design ( Both PC and Mobile View )
+
 
 
