@@ -13,3 +13,6 @@ https://drive.google.com/drive/folders/1APMUy-7Ml3AY5kMADrh85A6EKKZ_7J6r?usp=sha
 
 # Live demo
 https://drive.google.com/file/d/15RKyONtcqPrUO_LJCahp3vkUZDFmBdsd/view?usp=sharing
+
+# Deployed link
+https://urbanscan.vercel.app/
