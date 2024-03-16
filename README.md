@@ -5,7 +5,7 @@ This is third checkpoint for `Hack It Out` hackathon organised under Technex'24.
 *Please make sure to make a good `README.md` for easier and better evaluation.
 
 Following data must be present in your Pull request for this checkpoint
-- Link to your presentation: 
+- Link to your presentation: https://www.canva.com/design/DAF_snWa7qU/GWUnM0PdcdjzEl_ogkMHTg/edit?utm_content=DAF_snWa7qU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - Deployed link for your ongoing project: https://netzero-92di.onrender.com/
 - Github link to your Project : https://github.com/yashashwi-s/NetZero
 - Your Team name: hell fire hackers
