@@ -24,6 +24,9 @@ https://drive.google.com/file/d/1fy28gqsm8prIYLBBl1_FkgmvbNumBQ_m/view?usp=drive
 https://create.arduino.cc/editor/255shivansh/dba32714-f143-4e4f-9043-4f46c19ea765/preview
 # Link to our app
 https://warehouse.appilix.com/uploads/app-apk-65ebcff64ee7d-1709953014.apk
+# link to the deployed wep app
+https://shivansh488.github.io/hawk/
+
 
 
 
