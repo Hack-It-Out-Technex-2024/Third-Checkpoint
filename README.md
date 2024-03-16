@@ -1,12 +1,9 @@
-# Third-Checkpoint
+# Project Name
 
-This is third checkpoint for `Hack It Out` hackathon organised under Technex'24.
+[![GitHub](https://img.shields.io/badge/GitHub-Project-blue)](https://github.com/yourusername/yourproject)
 
-*Please make sure to make a good `README.md` for easier and better evaluation.
+## Team Name
+Pixel_Pioneers
 
-Following data must be present in your Pull request for this checkpoint
-- Link to your presentation
-- Deployed link for your ongoing project
-- Github link to your Project
-- Your Team name
-- Your problem statement which you're working on along with the link
+## Problem Statement
+### Environmental Sustainability - Waste Management
