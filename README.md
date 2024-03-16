@@ -7,6 +7,8 @@ This is third checkpoint for `Hack It Out` hackathon organised under Technex'24.
 Following data must be present in your Pull request for this checkpoint
 - Link to your presentation:- Deployed link for your ongoing project
 - Github link to your Project
+- link to my repository: https://github.com/ardhish-Patel22-10/HACKATHON
+- link to video demo of website: https://drive.google.com/drive/folders/1yHOJQtELw7wNZDkS7Ayy2EEzSOHEkXvo?usp=sharing
 - Your Team name
      HACK-IT-IN
 - Your problem statement which you're working on along with the link
