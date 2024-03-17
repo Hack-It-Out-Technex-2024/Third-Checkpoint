@@ -1,6 +1,6 @@
 # First Checkpoint
 
-[![Deployed](https://img.shields.io/badge/Deployed%20Link-https://brang-w277.onrender.com/main-brightgreen)](https://brang-w277.onrender.com/main)
+Deployed at : https://brang-w277.onrender.com/main
 [![GitHub](https://img.shields.io/badge/GitHub-https://github.com/vivekmaurya001/First-Checkpoint--blue)](https://github.com/vivekmaurya001/First-Checkpoint-)
 
 ## Presentation
