@@ -8,7 +8,7 @@ This is third checkpoint for `Hack It Out` hackathon organised under Technex'24.
  https://drive.google.com/drive/folders/1oiRw6HRIz7PwmV43QSbNhKjgvhNDy5gd?usp=sharing
  
  ## Deployed link for your ongoing project
-[ https://iitn-devs-ideation.onrender.com/](https://iiitn-devs.onrender.com)
+https://iitn-devs-ideation-3.onrender.com/
  
 ## Github link to your Project
 https://github.com/DebdipWritesCode/IITN-Devs-Ideation
